@@ -1,0 +1,1 @@
+const InputCont=document.querySelector(".input-cont")
